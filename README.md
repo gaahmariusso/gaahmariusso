@@ -1,6 +1,6 @@
 ## Prazer, sou o Gabriel Mariusso 😜
 
-![SRE](https://raw.githubusercontent.com/gaahmariusso/gaahmariusso/main/SRE.png)
+![SRE](https://raw.githubusercontent.com/gaahmariusso/gaahmariusso/main/img/SRE.png)
 
  <div>
   <a href="https://github.com/gaahmariusso">
