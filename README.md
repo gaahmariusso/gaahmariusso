@@ -1,4 +1,7 @@
 ## Prazer, sou o Gabriel Mariusso 😜
+
+![SRE](https://raw.githubusercontent.com/gaahmariusso/gaahmariusso/main/SRE.png)
+
  <div>
   <a href="https://github.com/gaahmariusso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaahmariusso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
