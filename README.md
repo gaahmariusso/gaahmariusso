@@ -18,7 +18,7 @@
   <img align="center" alt="Gaah-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Gaah-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   &emsp;
-  <img align="center" alt="Gaah-Amazon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Gaah-Amazon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Gaah-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Gaah-K8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Gaah-Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
